@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+YxXXHJ6Gj9aO0OtcM+eR1lrCAehU7wENZyxIHpLLWQS2/8HiVUDice2ThgCVJ6vlpdzmazRjBQgA0B14YWKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
